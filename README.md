@@ -1,4 +1,4 @@
-# Telecom_Customer_Churn
+# Telecom Customer Churn Prediction
 
 ## Overview
 
