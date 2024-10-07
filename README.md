@@ -29,6 +29,14 @@ By leveraging machine learning algorithms, the model analyzes historical custome
 4. Support Vector Machines (SVM)
 5. K-Nearest Neighbors (KNN)
 
+## Evaluation Metrics
+
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. ROC-AUC Curve
+
 ## Usage
 
 1. Prepare your customer data: Ensure your data is in the correct format and contains relevant features such as customer demographics, usage behavior, and transaction history.
